@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hiiii!!!
 I am an Information Systems student at Singapore Management University pursuing a double major in Product Development and Cybersecurity. I am passionate about building secure, scalable, and user-focused software systems.<br><br>Through coursework, hackathons, and personal projects, I have designed and developed full-stack applications using React, TypeScript, Node.js, Firebase, and Python. I enjoy working across the stack - from designing intuitive frontend interfaces to architecting backend systems and optimizing data pipelines.<br><br>With training in cybersecurity, I approach development with a security-first mindset, thinking critically about authentication, data integrity, and system vulnerabilities. I am particularly interested in roles where I can build intelligent, secure products that solve meaningful real-world problems.
 
 # 🌐 Socials:
