@@ -1,32 +1,36 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<div align="center">
+  <img src="koi/koi.gif" width="280" alt="Animated koi drawn from Muskan's daily GitHub activity" />
+</div>
 
+<br />
 
-![snake](https://raw.githubusercontent.com/MuskanDhamuria/MuskanDhamuria/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuskanDhamuria/MuskanDhamuria/output/snake.svg" width="100%" alt="Muskan's contribution snake" />
+</div>
 
-<picture>
-  <img align="left" width="45%" src="assets/riser.svg" alt="">
-</picture>
-<a href="https://github.com/MuskanDhamuria/git-koi">
-  <img src="koi/koi.gif" align="right" width="45%" alt="My koi, redrawn every night from the day's activity">
-</a>
-<picture>
-  <img align="right" width="5%" src="assets/divider.svg" alt="">
-</picture>
-<picture>
-  <img align="left" width="8%" src="assets/spacer.svg" alt="">
-</picture>
+<br />
 
-<br clear="all">
-<a href="https://github.com/MuskanDhamuria#year-list-container">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
-    <img src="cards/stats-light.svg" align="left" width="45%" alt="Anthony's GitHub stats">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=MuskanDhamuria&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=Muskan%27s%20GitHub%20Stats&amp;theme=tokyonight&amp;hide_border=true"
+    />
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=MuskanDhamuria&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=Muskan%27s%20GitHub%20Stats&amp;theme=buefy&amp;hide_border=true"
+      alt="Muskan's GitHub stats"
+    />
   </picture>
-</a>
-<a href="https://github.com/MuskanDhamuria?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
-    <img src="cards/languages-light.svg" align="right" width="45%" alt="Languages by repo count">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanDhamuria&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true"
+    />
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanDhamuria&amp;layout=compact&amp;langs_count=8&amp;theme=buefy&amp;hide_border=true"
+      alt="Muskan's most-used languages"
+    />
   </picture>
-</a>
-<br clear="all">
+</div>
