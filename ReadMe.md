@@ -6,7 +6,7 @@
 <picture>
   <img align="left" width="45%" src="assets/riser.svg" alt="">
 </picture>
-<a href="https://github.com/yalongwastaken/git-koi">
+<a href="https://github.com/MuskanDhamuria/git-koi">
   <img src="koi/koi.gif" align="right" width="45%" alt="My koi, redrawn every night from the day's activity">
 </a>
 <picture>
@@ -17,13 +17,13 @@
 </picture>
 
 <br clear="all">
-<a href="https://github.com/yalongwastaken#year-list-container">
+<a href="https://github.com/MuskanDhamuria#year-list-container">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="cards/stats-dark.svg">
     <img src="cards/stats-light.svg" align="left" width="45%" alt="Anthony's GitHub stats">
   </picture>
 </a>
-<a href="https://github.com/yalongwastaken?tab=repositories">
+<a href="https://github.com/MuskanDhamuria?tab=repositories">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
     <img src="cards/languages-light.svg" align="right" width="45%" alt="Languages by repo count">
