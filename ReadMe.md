@@ -12,4 +12,6 @@ I am an Information Systems student at Singapore Management University pursuing 
 
 [![](https://visitcount.itsvg.in/api?id=MuskanDhamuria&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
