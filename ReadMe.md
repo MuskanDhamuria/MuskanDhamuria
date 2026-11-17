@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
   <img src="koi/koi.gif" width="280" alt="Animated koi drawn from Muskan's daily GitHub activity" />
 </div>
 
